@@ -1,24 +1,25 @@
-# 💫 About Me:
-I’m currently working on<br><br>Small web development projects to improve my coding skills.<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly frontend or web development projects.<br><br>🤝 I’m looking for help with<br><br>Improving JavaScript concepts and real-world project structure.<br><br>🌱 I’m currently learning<br><br>HTML, CSS, JavaScript, and Angular.<br><br>💬 Ask me about<br><br>Basic web development, frontend concepts, and learning resources.<br><br>⚡ Fun fact<br><br>I enjoy learning by building small projects and fixing bugs.
+# Hi, I'm Raj 👋
 
+I learn by building small web projects, improving my coding skills, and fixing bugs along the way.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey_raj05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenrajtiwari@gmail.com) 
+## Currently learning
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=Codeberg&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat-square&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat-square&logo=adonisjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=Apache%20Ant&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat-square&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat-square&logo=Adobe%20Dreamweaver&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat-square&logo=proto.io&logoColor=00e5ff) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat-square&logo=circleci&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat-square&logo=gitpod&logoColor=white) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=flat-square&logo=Perforce&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=flat-square&logo=forgejo&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=flat-square&logo=mercurial&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat-square&logo=subversion&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat-square&logo=Jasmine&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-square&logo=Prezi&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=flat-square&logo=bevy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RAJTIWARI3594&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RAJTIWARI3594&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJTIWARI3594&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+HTML, CSS, JavaScript, and Angular.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RAJTIWARI3594&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+## Selected projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+- [Paperlocal PDF](https://github.com/RAJTIWARI3594/paperlocal-pdf) — a browser-based tool for merging, extracting, reordering, and rotating PDFs, or turning JPG/PNG photos into PDFs. [Try the live demo](https://rajtiwari3594.github.io/paperlocal-pdf/).
+- [BlueTrace Security Workbench](https://github.com/RAJTIWARI3594/bluetrace-security-workbench) — a local-first defensive log-triage project for learning and authorized incident review.
+- [Portfolio Project Atlas](https://github.com/RAJTIWARI3594/portfolio-project-atlas) — a searchable index of selected public project repositories.
 
----
-[![](https://visitcount.itsvg.in/api?id=RAJTIWARI3594&icon=0&color=0)](https://visitcount.itsvg.in)
+## Collaboration
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm open to collaborating on beginner-friendly frontend and web development projects.
+
+## Ask me about
+
+Basic web development, frontend concepts, and learning resources.
+
+## Connect
+
+[Email](mailto:allenrajtiwari@gmail.com) · [Instagram](https://instagram.com/hey_raj05)
